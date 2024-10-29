@@ -1,0 +1,84 @@
+{
+  "electricity": [
+    {
+      "key": 1,
+      "name": "Bậc 1",
+      "range": "0-50",
+      "price": 1.806,
+      "energyUsed": 0,
+      "id": "e46a"
+    },
+    {
+      "key": 2,
+      "name": "Bậc 2",
+      "range": "51-100",
+      "price": 1.866,
+      "energyUsed": 0,
+      "id": "709c"
+    },
+    {
+      "key": 3,
+      "name": "Bậc 3",
+      "range": "101-200",
+      "price": 2.167,
+      "energyUsed": 0,
+      "id": "2e0f"
+    },
+    {
+      "key": 4,
+      "name": "Bậc 4",
+      "range": "201-300",
+      "price": 2.729,
+      "energyUsed": 0,
+      "id": "6f62"
+    },
+    {
+      "key": 5,
+      "name": "Bậc 5",
+      "range": "301-400",
+      "price": 3.05,
+      "energyUsed": 0,
+      "id": "cbfc"
+    },
+    {
+      "key": 6,
+      "name": "Bậc 6",
+      "range": "401+",
+      "price": 3.151,
+      "energyUsed": 0,
+      "id": "88d3"
+    }
+  ],
+  "bills": [
+    {
+      "id": "3fa3",
+      "inputEnergy": 500,
+      "totalAmount": 1293.3,
+      "timestamp": "2024-10-27T15:14:04.855Z"
+    },
+    {
+      "id": "0283",
+      "inputEnergy": 500,
+      "totalAmount": 1293.3,
+      "timestamp": "2024-10-27T15:18:45.669Z"
+    },
+    {
+      "id": "8103",
+      "inputEnergy": 600,
+      "totalAmount": 1608.4,
+      "timestamp": "2024-10-27T15:18:56.713Z"
+    },
+    {
+      "id": "e8de",
+      "inputEnergy": 500,
+      "totalAmount": 1293.3,
+      "timestamp": "2024-10-28T01:51:14.893Z"
+    },
+    {
+      "id": "8c1b",
+      "inputEnergy": 123,
+      "totalAmount": 233.441,
+      "timestamp": "2024-10-29T03:19:12.550Z"
+    }
+  ]
+}
